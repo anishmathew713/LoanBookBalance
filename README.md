@@ -6,7 +6,7 @@ Project Setup
 1. How long did you spend working on the problem? What did you find to be the most
    difficult part? 
    
-- I spent close to 5 hours to get a solution working and used an additional 1.5 hour time to clean up.  This was definitely a great experience for me and I thoroughly enjoyed my time trying to get an working output.  Covenants and yields were a bit tricky for me.  Should have had unit testing as well but ran out of time.
+- I spent close to 5 hours to get a solution working and used an additional 1.5 hour time to clean up.  This was definitely a great experience for me and I thoroughly enjoyed my time trying to get a working output.  Covenants and yields were a bit tricky for me.  Should have had unit testing as well but ran out of time.
 
 2. How would you modify your data model or code to account for an eventual introduction
    of new, as-of-yet unknown types of covenants, beyond just maximum default likelihood
